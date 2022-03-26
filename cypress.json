@@ -1,0 +1,5 @@
+{
+    "baseUrl": "http://18.218.70.66:30001/",
+    "watchForFileChanges": false,
+    "defaultCommandTimeout": 8000
+}
